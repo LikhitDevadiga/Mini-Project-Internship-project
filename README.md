@@ -1,8 +1,8 @@
 # Mini-Project-Internship-project
 Step1: Download the file make sure you have python and flask installed in your system.
 Step2: Go to students folder and make your required student name as folder name and add 2 or 3 clear face images of that particular student in that folder. 
-Example---------------------->John                (this is students name)
-                           |---->john.png         (this is that particular students face)
+Example folder name is---------------------->John                (this is students name)
+Inside John folder there is John's Face image |---->john.png     (this is that particular students face)
 Do it for all students of the class
 Step4: Make sure to use required background image via url in the index.html file)
 Step5: Open the file path in command prompt(ex D:\downloads\Attendance>python app.py) and press enter.(Make sure to install all the necessary libraries to run the file)
