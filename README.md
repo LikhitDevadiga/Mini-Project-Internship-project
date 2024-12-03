@@ -11,3 +11,4 @@ Step5: Upload a class picture (Note: Every face should be clearly visible in the
 Step6: Submit the image and wait for a minute till the .csv file is created and downloaded in the system.(More powerful the system faster is the process)
 Step7: Check the attendance, compare it with photo and .csv attendance marking for further improving the accuracy.
 (Important note- Adjust the tolerence as needed in the app.py file for more or less strictness in detecting faces)  
+<img src="https://t.bkit.co/w_674f00a5d5d47.gif" />
